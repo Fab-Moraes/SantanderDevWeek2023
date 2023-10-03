@@ -8,7 +8,7 @@ Esse código Python parece realizar algumas operações envolvendo uma API e um 
 # Importando Bibliotecas:
 
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
-Define uma variável sdw2023_api_url com o valor 'https://sdw-2023-prd.up.railway.app'. Isso provavelmente é a URL base para uma API.
+Define uma variável sdw2023_api_url com o valor 'https://sdw-2023-prd.up.railway.app'. É a URL base para uma API.
 
 
 # import pandas as pd
